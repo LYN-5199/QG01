@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585732043 source:c:\users\yoga 710-14\desktop\代码和头文件\dulinklist\dulinkedlist.c
+	"../head/duLinkedList.h"
+	<stdlib.h>
+	<stdio.h>
+
+1585377116 c:\users\yoga 710-14\desktop\代码和头文件\head\dulinkedlist.h
+
+1585732879 source:c:\users\yoga 710-14\desktop\代码和头文件\dulinklist\main.c
+	"../head/duLinkedList.h"
+	<stdlib.h>
+	<stdio.h>
+

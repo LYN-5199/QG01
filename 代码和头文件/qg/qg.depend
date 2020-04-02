@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585649503 source:c:\users\yoga 710-14\desktop\代码和头文件\linklist\linkedlist.c
+	"../head/linkedList.h"
+	<stdlib.h>
+	<stdio.h>
+
+1585377100 c:\users\yoga 710-14\desktop\代码和头文件\head\linkedlist.h
+
+1585651297 source:c:\users\yoga 710-14\desktop\代码和头文件\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../head/linkedList.h"
+
